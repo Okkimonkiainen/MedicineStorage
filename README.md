@@ -7,7 +7,9 @@ Sovelluksessa käytetään:
 - PythonAnywhere
 - Gmail
 
-Projektin toimintaa ja ulkoasua voidaan tarkastella [tästä](https://laaketilat.eu.pythonanywhere.com/kirjaudu). (Haku-ominaisuus on keskeneräinen ja sovelluksen ulkoasua sekä ominaisuuksia tullaan päivittämään).
+(Haku-ominaisuus on keskeneräinen ja sovelluksen ulkoasua sekä ominaisuuksia tullaan päivittämään).
+
+Projektin toimintaa ja ulkoasua voidaan tarkastella [tästä](https://laaketilat.eu.pythonanywhere.com/kirjaudu). 
 - Käyttäjätunnus: testaaja
 - Salasana: salasana
   
